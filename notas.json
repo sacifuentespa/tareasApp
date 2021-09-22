@@ -1,0 +1,46 @@
+[
+    {
+        "tarea": "matemáticas",
+        "estado": "terminada"
+    },
+    {
+        "tarea": "programación",
+        "estado": "terminada"
+    },
+    {
+        "tarea": "física",
+        "estado": "terminada"
+    },
+    {
+        "tarea": "Química",
+        "estado": "terminada"
+    },
+    {
+        "tarea": "ajedrez",
+        "estado": "en progreso"
+    },
+    {
+        "tarea": "Qmat",
+        "estado": "en progreso"
+    },
+    {
+        "tarea": "Deutsch",
+        "estado": "en progreso"
+    },
+    {
+        "tarea": "Français",
+        "estado": "pendiente"
+    },
+    {
+        "tarea": "algo",
+        "estado": "pendiente"
+    },
+    {
+        "tarea": "otraMateria",
+        "estado": "pendiente"
+    },
+    {
+        "tarea": "chileno",
+        "estado": "pendiente"
+    }
+]
